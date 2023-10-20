@@ -1,0 +1,1452 @@
+{
+    "Artifacts": {
+        "Puzzle cube": {
+            "Ancient puzzle cube": {
+                "family": "Puzzle cube",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Puzzle cube": {
+                "family": "Puzzle cube",
+                "tier": 2,
+                "ingredients": {
+                    "Ancient puzzle cube": {
+                        "tier": 1,
+                        "IngredientCount": 3
+                    }
+                }
+            },
+            "Mystical puzzle cube": {
+                "family": "Puzzle cube",
+                "tier": 3,
+                "ingredients": {
+                    "Puzzle cube": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Plain gusset": {
+                        "tier": 1,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Unsolvable puzzle cube": {
+                "family": "Puzzle cube",
+                "tier": 4,
+                "ingredients": {
+                    "Mystical puzzle cube": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Lunar totem": {
+            "Basic lunar totem": {
+                "family": "Lunar totem",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Lunar totem": {
+                "family": "Lunar totem",
+                "tier": 2,
+                "ingredients": {
+                    "Basic lunar totem": {
+                        "tier": 1,
+                        "IngredientCount": 3
+                    }
+                }
+            },
+            "Powerful lunar totem": {
+                "family": "Lunar totem",
+                "tier": 3,
+                "ingredients": {
+                    "Lunar totem": {
+                        "tier": 2,
+                        "IngredientCount": 6
+                    }
+                }
+            },
+            "Eggceptional lunar totem": {
+                "family": "Lunar totem",
+                "tier": 4,
+                "ingredients": {
+                    "Powerful lunar totem": {
+                        "tier": 3,
+                        "IngredientCount": 6
+                    },
+                    "Solar titanium bar": {
+                        "tier": 2,
+                        "IngredientCount": 1
+                    }
+                }
+            }
+        },
+        "Demeters necklace": {
+            "Simple Demeters necklace": {
+                "family": "Demeters necklace",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Jeweled Demeters necklace": {
+                "family": "Demeters necklace",
+                "tier": 2,
+                "ingredients": {
+                    "Simple Demeters necklace": {
+                        "tier": 1,
+                        "IngredientCount": 3
+                    }
+                }
+            },
+            "Pristine Demeters necklace": {
+                "family": "Demeters necklace",
+                "tier": 3,
+                "ingredients": {
+                    "Jeweled Demeters necklace": {
+                        "tier": 2,
+                        "IngredientCount": 5
+                    },
+                    "Plain chalice": {
+                        "tier": 1,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Beggspoke Demeters necklace": {
+                "family": "Demeters necklace",
+                "tier": 4,
+                "ingredients": {
+                    "Pristine Demeters necklace": {
+                        "tier": 3,
+                        "IngredientCount": 6
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 1
+                    }
+                }
+            }
+        },
+        "Vial of Martian dust": {
+            "Tiny vial of Martian dust": {
+                "family": "Vial of Martian dust",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Vial of Martian dust": {
+                "family": "Vial of Martian dust",
+                "tier": 2,
+                "ingredients": {
+                    "Tiny vial of Martian dust": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    }
+                }
+            },
+            "Hermetic vial of Martian dust": {
+                "family": "Vial of Martian dust",
+                "tier": 3,
+                "ingredients": {
+                    "Vial of Martian dust": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Solar titanium bar": {
+                        "tier": 2,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Prime vial of Martian dust": {
+                "family": "Vial of Martian dust",
+                "tier": 4,
+                "ingredients": {
+                    "Hermetic vial of Martian dust": {
+                        "tier": 3,
+                        "IngredientCount": 8
+                    },
+                    "Radiant Tau Ceti geode": {
+                        "tier": 3,
+                        "IngredientCount": 1
+                    }
+                }
+            }
+        },
+        "Aurelian brooch": {
+            "Plain Aurelian brooch": {
+                "family": "Aurelian brooch",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Aurelian brooch": {
+                "family": "Aurelian brooch",
+                "tier": 2,
+                "ingredients": {
+                    "Plain Aurelian brooch": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    }
+                }
+            },
+            "Jeweled Aurelian brooch": {
+                "family": "Aurelian brooch",
+                "tier": 3,
+                "ingredients": {
+                    "Aurelian brooch": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Pristine Demeters necklace": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Eggceptional Aurelian brooch": {
+                "family": "Aurelian brooch",
+                "tier": 4,
+                "ingredients": {
+                    "Jeweled Aurelian brooch": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Tungsten ankh": {
+            "Crude tungsten ankh": {
+                "family": "Tungsten ankh",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Tungsten ankh": {
+                "family": "Tungsten ankh",
+                "tier": 2,
+                "ingredients": {
+                    "Crude tungsten ankh": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    }
+                }
+            },
+            "Polished tungsten ankh": {
+                "family": "Tungsten ankh",
+                "tier": 3,
+                "ingredients": {
+                    "Tungsten ankh": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Solar titanium bar": {
+                        "tier": 2,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Brilliant tungsten ankh": {
+                "family": "Tungsten ankh",
+                "tier": 4,
+                "ingredients": {
+                    "Polished tungsten ankh": {
+                        "tier": 3,
+                        "IngredientCount": 8
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 4
+                    }
+                }
+            }
+        },
+        "Gusset": {
+            "Plain gusset": {
+                "family": "Gusset",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Ornate gusset": {
+                "family": "Gusset",
+                "tier": 2,
+                "ingredients": {
+                    "Plain gusset": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    }
+                }
+            },
+            "Distegguished gusset": {
+                "family": "Gusset",
+                "tier": 3,
+                "ingredients": {
+                    "Ornate gusset": {
+                        "tier": 2,
+                        "IngredientCount": 6
+                    },
+                    "Mercury's lens": {
+                        "tier": 2,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Jeweled gusset": {
+                "family": "Gusset",
+                "tier": 4,
+                "ingredients": {
+                    "Distegguished gusset": {
+                        "tier": 3,
+                        "IngredientCount": 8
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 3
+                    }
+                }
+            }
+        },
+        "Neodymium medallion": {
+            "Weak neodymium medallion": {
+                "family": "Neodymium medallion",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Neodymium medallion": {
+                "family": "Neodymium medallion",
+                "tier": 2,
+                "ingredients": {
+                    "Weak neodymium medallion": {
+                        "tier": 1,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Precise neodymium medallion": {
+                "family": "Neodymium medallion",
+                "tier": 3,
+                "ingredients": {
+                    "Neodymium medallion": {
+                        "tier": 2,
+                        "IngredientCount": 5
+                    },
+                    "Glimmering Tau Ceti geode": {
+                        "tier": 2,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Eggceptional neodymium medallion": {
+                "family": "Neodymium medallion",
+                "tier": 4,
+                "ingredients": {
+                    "Precise neodymium medallion": {
+                        "tier": 3,
+                        "IngredientCount": 6
+                    },
+                    "Precise interstellar compass": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Mercury's lens": {
+            "Misaligned Mercury's lens": {
+                "family": "Mercury's lens",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Mercury's lens": {
+                "family": "Mercury's lens",
+                "tier": 2,
+                "ingredients": {
+                    "Misaligned Mercury's lens": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    }
+                }
+            },
+            "Precise Mercury's lens": {
+                "family": "Mercury's lens",
+                "tier": 3,
+                "ingredients": {
+                    "Mercury's lens": {
+                        "tier": 2,
+                        "IngredientCount": 8
+                    },
+                    "Glimmering Tau Ceti geode": {
+                        "tier": 2,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Meggnificent Mercury's lens": {
+                "family": "Mercury's lens",
+                "tier": 4,
+                "ingredients": {
+                    "Precise Mercury's lens": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Solar titanium geogon": {
+                        "tier": 3,
+                        "IngredientCount": 6
+                    }
+                }
+            }
+        },
+        "Beak of Midas": {
+            "Dull beak of Midas": {
+                "family": "Beak of Midas",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Beak of Midas": {
+                "family": "Beak of Midas",
+                "tier": 2,
+                "ingredients": {
+                    "Dull beak of Midas": {
+                        "tier": 1,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Jeweled beak of Midas": {
+                "family": "Beak of Midas",
+                "tier": 3,
+                "ingredients": {
+                    "Beak of Midas": {
+                        "tier": 2,
+                        "IngredientCount": 5
+                    },
+                    "Glimmering Tau Ceti geode": {
+                        "tier": 2,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Glistening beak of Midas": {
+                "family": "Beak of Midas",
+                "tier": 4,
+                "ingredients": {
+                    "Jeweled beak of Midas": {
+                        "tier": 3,
+                        "IngredientCount": 6
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 3
+                    }
+                }
+            }
+        },
+        "Carved rainstick": {
+            "Simple carved rainstick": {
+                "family": "Carved rainstick",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Carved rainstick": {
+                "family": "Carved rainstick",
+                "tier": 2,
+                "ingredients": {
+                    "Simple carved rainstick": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    },
+                    "Plain gusset": {
+                        "tier": 1,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Ornate carved rainstick": {
+                "family": "Carved rainstick",
+                "tier": 3,
+                "ingredients": {
+                    "Carved rainstick": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Jeweled beak of Midas": {
+                        "tier": 3,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Meggnificent carved rainstick": {
+                "family": "Carved rainstick",
+                "tier": 4,
+                "ingredients": {
+                    "Ornate carved rainstick": {
+                        "tier": 3,
+                        "IngredientCount": 9
+                    },
+                    "Radiant Tau Ceti geode": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Interstellar compass": {
+            "Miscalibrated interstellar compass": {
+                "family": "Interstellar compass",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Interstellar compass": {
+                "family": "Interstellar compass",
+                "tier": 2,
+                "ingredients": {
+                    "Miscalibrated interstellar compass": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    }
+                }
+            },
+            "Precise interstellar compass": {
+                "family": "Interstellar compass",
+                "tier": 3,
+                "ingredients": {
+                    "Interstellar compass": {
+                        "tier": 2,
+                        "IngredientCount": 8
+                    },
+                    "Solar titanium bar": {
+                        "tier": 2,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Clairvoyant interstellar compass": {
+                "family": "Interstellar compass",
+                "tier": 4,
+                "ingredients": {
+                    "Precise interstellar compass": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Radiant Tau Ceti geode": {
+                        "tier": 3,
+                        "IngredientCount": 4
+                    }
+                }
+            }
+        },
+        "The chalice": {
+            "Plain chalice": {
+                "family": "The chalice",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Polished chalice": {
+                "family": "The chalice",
+                "tier": 2,
+                "ingredients": {
+                    "Plain chalice": {
+                        "tier": 1,
+                        "IngredientCount": 4
+                    },
+                    "Enriched gold meteorite": {
+                        "tier": 2,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Jeweled chalice": {
+                "family": "The chalice",
+                "tier": 3,
+                "ingredients": {
+                    "Polished chalice": {
+                        "tier": 2,
+                        "IngredientCount": 6
+                    },
+                    "Glimmering Tau Ceti geode": {
+                        "tier": 2,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Eggceptional chalice": {
+                "family": "The chalice",
+                "tier": 4,
+                "ingredients": {
+                    "Jeweled chalice": {
+                        "tier": 3,
+                        "IngredientCount": 8
+                    },
+                    "Glistening beak of Midas": {
+                        "tier": 4,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Phoenix feather": {
+            "Tattered phoenix feather": {
+                "family": "Phoenix feather",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Phoenix feather": {
+                "family": "Phoenix feather",
+                "tier": 2,
+                "ingredients": {
+                    "Tattered phoenix feather": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    },
+                    "Glimmering Tau Ceti geode": {
+                        "tier": 2,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Brilliant phoenix feather": {
+                "family": "Phoenix feather",
+                "tier": 3,
+                "ingredients": {
+                    "Phoenix feather": {
+                        "tier": 2,
+                        "IngredientCount": 10
+                    },
+                    "Book of Basan": {
+                        "tier": 1,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Blazing phoenix feather": {
+                "family": "Phoenix feather",
+                "tier": 4,
+                "ingredients": {
+                    "Brilliant phoenix feather": {
+                        "tier": 3,
+                        "IngredientCount": 12
+                    },
+                    "Fortified book of Basan": {
+                        "tier": 3,
+                        "IngredientCount": 1
+                    }
+                }
+            }
+        },
+        "Quantum metronome": {
+            "Misaligned quantum metronome": {
+                "family": "Quantum metronome",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Adequate quantum metronome": {
+                "family": "Quantum metronome",
+                "tier": 2,
+                "ingredients": {
+                    "Misaligned quantum metronome": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    },
+                    "Inconsistent titanium actuator": {
+                        "tier": 1,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Perfect quantum metronome": {
+                "family": "Quantum metronome",
+                "tier": 3,
+                "ingredients": {
+                    "Adequate quantum metronome": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Precise Mercury's lens": {
+                        "tier": 3,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Reggference quantum metronome": {
+                "family": "Quantum metronome",
+                "tier": 4,
+                "ingredients": {
+                    "Perfect quantum metronome": {
+                        "tier": 3,
+                        "IngredientCount": 9
+                    },
+                    "Radiant Tau Ceti geode": {
+                        "tier": 3,
+                        "IngredientCount": 4
+                    }
+                }
+            }
+        },
+        "Dilithium monocle": {
+            "Dilithium monocle": {
+                "family": "Dilithium monocle",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Precise dilithium monocle": {
+                "family": "Dilithium monocle",
+                "tier": 2,
+                "ingredients": {
+                    "Dilithium monocle": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    },
+                    "Inconsistent titanium actuator": {
+                        "tier": 1,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Eggsacting dilithium monocle": {
+                "family": "Dilithium monocle",
+                "tier": 3,
+                "ingredients": {
+                    "Precise dilithium monocle": {
+                        "tier": 2,
+                        "IngredientCount": 8
+                    },
+                    "Solar titanium geogon": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Flawless dilithium monocle": {
+                "family": "Dilithium monocle",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsacting dilithium monocle": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Meggnificent Mercury's lens": {
+                        "tier": 4,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Titanium actuator": {
+            "Inconsistent titanium actuator": {
+                "family": "Titanium actuator",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Titanium actuator": {
+                "family": "Titanium actuator",
+                "tier": 2,
+                "ingredients": {
+                    "Inconsistent titanium actuator": {
+                        "tier": 1,
+                        "IngredientCount": 4
+                    },
+                    "Solar titanium bar": {
+                        "tier": 2,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Precise titanium actuator": {
+                "family": "Titanium actuator",
+                "tier": 3,
+                "ingredients": {
+                    "Titanium actuator": {
+                        "tier": 2,
+                        "IngredientCount": 6
+                    },
+                    "Solar titanium geogon": {
+                        "tier": 3,
+                        "IngredientCount": 3
+                    }
+                }
+            },
+            "Reggference titanium actuator": {
+                "family": "Titanium actuator",
+                "tier": 4,
+                "ingredients": {
+                    "Precise titanium actuator": {
+                        "tier": 3,
+                        "IngredientCount": 8
+                    },
+                    "Reggference quantum metronome": {
+                        "tier": 4,
+                        "IngredientCount": 3
+                    }
+                }
+            }
+        },
+        "Ship in a bottle": {
+            "Ship in a bottle": {
+                "family": "Ship in a bottle",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Detailed ship in a bottle": {
+                "family": "Ship in a bottle",
+                "tier": 2,
+                "ingredients": {
+                    "Ship in a bottle": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    },
+                    "Beggspoke Demeters necklace": {
+                        "tier": 4,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Complex ship in a bottle": {
+                "family": "Ship in a bottle",
+                "tier": 3,
+                "ingredients": {
+                    "Detailed ship in a bottle": {
+                        "tier": 2,
+                        "IngredientCount": 9
+                    },
+                    "Solar titanium geogon": {
+                        "tier": 3,
+                        "IngredientCount": 3
+                    }
+                }
+            },
+            "Eggquisite ship in a bottle": {
+                "family": "Ship in a bottle",
+                "tier": 4,
+                "ingredients": {
+                    "Complex ship in a bottle": {
+                        "tier": 3,
+                        "IngredientCount": 12
+                    },
+                    "Fortified book of Basan": {
+                        "tier": 3,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Tachyon deflector": {
+            "Weak tachyon deflector": {
+                "family": "Tachyon deflector",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Tachyon deflector": {
+                "family": "Tachyon deflector",
+                "tier": 2,
+                "ingredients": {
+                    "Weak tachyon deflector": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    },
+                    "Detailed ship in a bottle": {
+                        "tier": 2,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Robust tachyon deflector": {
+                "family": "Tachyon deflector",
+                "tier": 3,
+                "ingredients": {
+                    "Tachyon deflector": {
+                        "tier": 2,
+                        "IngredientCount": 10
+                    },
+                    "Reggference quantum metronome": {
+                        "tier": 4,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Eggceptional tachyon deflector": {
+                "family": "Tachyon deflector",
+                "tier": 4,
+                "ingredients": {
+                    "Robust tachyon deflector": {
+                        "tier": 3,
+                        "IngredientCount": 12
+                    },
+                    "Eggquisite ship in a bottle": {
+                        "tier": 4,
+                        "IngredientCount": 4
+                    }
+                }
+            }
+        },
+        "Book of Basan": {
+            "Book of Basan": {
+                "family": "Book of Basan",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Collectors book of Basan": {
+                "family": "Book of Basan",
+                "tier": 2,
+                "ingredients": {
+                    "Book of Basan": {
+                        "tier": 1,
+                        "IngredientCount": 6
+                    },
+                    "Solid gold meteorite": {
+                        "tier": 3,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Fortified book of Basan": {
+                "family": "Book of Basan",
+                "tier": 3,
+                "ingredients": {
+                    "Collectors book of Basan": {
+                        "tier": 2,
+                        "IngredientCount": 10
+                    },
+                    "Eggceptional chalice": {
+                        "tier": 4,
+                        "IngredientCount": 3
+                    }
+                }
+            },
+            "Gilded book of Basan": {
+                "family": "Book of Basan",
+                "tier": 4,
+                "ingredients": {
+                    "Fortified book of Basan": {
+                        "tier": 3,
+                        "IngredientCount": 12
+                    },
+                    "Brilliant light of Eggendil": {
+                        "tier": 4,
+                        "IngredientCount": 1
+                    }
+                }
+            }
+        },
+        "Light of Eggendil": {
+            "Dim light of Eggendil": {
+                "family": "Light of Eggendil",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Shimmering light of Eggendil": {
+                "family": "Light of Eggendil",
+                "tier": 2,
+                "ingredients": {
+                    "Dim light of Eggendil": {
+                        "tier": 1,
+                        "IngredientCount": 5
+                    },
+                    "Radiant Tau Ceti geode": {
+                        "tier": 3,
+                        "IngredientCount": 1
+                    }
+                }
+            },
+            "Glowing light of Eggendil": {
+                "family": "Light of Eggendil",
+                "tier": 3,
+                "ingredients": {
+                    "Shimmering light of Eggendil": {
+                        "tier": 2,
+                        "IngredientCount": 7
+                    },
+                    "Brilliant phoenix feather": {
+                        "tier": 3,
+                        "IngredientCount": 4
+                    }
+                }
+            },
+            "Brilliant light of Eggendil": {
+                "family": "Light of Eggendil",
+                "tier": 4,
+                "ingredients": {
+                    "Glowing light of Eggendil": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Blazing phoenix feather": {
+                        "tier": 4,
+                        "IngredientCount": 4
+                    }
+                }
+            }
+        },
+        "Lunar stone": {
+            "Lunar stone fragment": {
+                "family": "Lunar stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Lunar stone": {
+                "family": "Lunar stone",
+                "tier": 2,
+                "ingredients": {
+                    "Lunar stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite lunar stone": {
+                "family": "Lunar stone",
+                "tier": 3,
+                "ingredients": {
+                    "Lunar stone": {
+                        "tier": 2,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Meggnificent lunar stone": {
+                "family": "Lunar stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite lunar stone": {
+                        "tier": 3,
+                        "IngredientCount": 25
+                    }
+                }
+            }
+        },
+        "Shell stone": {
+            "Shell stone fragment": {
+                "family": "Shell stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Shell stone": {
+                "family": "Shell stone",
+                "tier": 2,
+                "ingredients": {
+                    "Shell stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite shell stone": {
+                "family": "Shell stone",
+                "tier": 3,
+                "ingredients": {
+                    "Shell stone": {
+                        "tier": 2,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Flawless shell stone": {
+                "family": "Shell stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite shell stone": {
+                        "tier": 3,
+                        "IngredientCount": 10
+                    },
+                    "Eggsquisite dilithium stone": {
+                        "tier": 3,
+                        "IngredientCount": 5
+                    }
+                }
+            }
+        },
+        "Tachyon stone": {
+            "Tachyon stone fragment": {
+                "family": "Tachyon stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Tachyon stone": {
+                "family": "Tachyon stone",
+                "tier": 2,
+                "ingredients": {
+                    "Tachyon stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite tachyon stone": {
+                "family": "Tachyon stone",
+                "tier": 3,
+                "ingredients": {
+                    "Tachyon stone": {
+                        "tier": 2,
+                        "IngredientCount": 15
+                    }
+                }
+            },
+            "Brilliant tachyon stone": {
+                "family": "Tachyon stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite tachyon stone": {
+                        "tier": 3,
+                        "IngredientCount": 20
+                    }
+                }
+            }
+        },
+        "Terra stone": {
+            "Terra stone fragment": {
+                "family": "Terra stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Terra stone": {
+                "family": "Terra stone",
+                "tier": 2,
+                "ingredients": {
+                    "Terra stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Rich terra stone": {
+                "family": "Terra stone",
+                "tier": 3,
+                "ingredients": {
+                    "Terra stone": {
+                        "tier": 2,
+                        "IngredientCount": 15
+                    }
+                }
+            },
+            "Eggceptional terra stone": {
+                "family": "Terra stone",
+                "tier": 4,
+                "ingredients": {
+                    "Rich terra stone": {
+                        "tier": 3,
+                        "IngredientCount": 20
+                    }
+                }
+            }
+        },
+        "Soul stone": {
+            "Soul stone fragment": {
+                "family": "Soul stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Soul stone": {
+                "family": "Soul stone",
+                "tier": 2,
+                "ingredients": {
+                    "Soul stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite soul stone": {
+                "family": "Soul stone",
+                "tier": 3,
+                "ingredients": {
+                    "Soul stone": {
+                        "tier": 2,
+                        "IngredientCount": 15
+                    }
+                }
+            },
+            "Radiant soul stone": {
+                "family": "Soul stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite soul stone": {
+                        "tier": 3,
+                        "IngredientCount": 20
+                    }
+                }
+            }
+        },
+        "Dilithium stone": {
+            "Dilithium stone fragment": {
+                "family": "Dilithium stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Dilithium stone": {
+                "family": "Dilithium stone",
+                "tier": 2,
+                "ingredients": {
+                    "Dilithium stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite dilithium stone": {
+                "family": "Dilithium stone",
+                "tier": 3,
+                "ingredients": {
+                    "Dilithium stone": {
+                        "tier": 2,
+                        "IngredientCount": 12
+                    }
+                }
+            },
+            "Brilliant dilithium stone": {
+                "family": "Dilithium stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite dilithium stone": {
+                        "tier": 3,
+                        "IngredientCount": 15
+                    }
+                }
+            }
+        },
+        "Quantum stone": {
+            "Quantum stone fragment": {
+                "family": "Quantum stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Quantum stone": {
+                "family": "Quantum stone",
+                "tier": 2,
+                "ingredients": {
+                    "Quantum stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Phased quantum stone": {
+                "family": "Quantum stone",
+                "tier": 3,
+                "ingredients": {
+                    "Quantum stone": {
+                        "tier": 2,
+                        "IngredientCount": 15
+                    }
+                }
+            },
+            "Meggnificent quantum stone": {
+                "family": "Quantum stone",
+                "tier": 4,
+                "ingredients": {
+                    "Phased quantum stone": {
+                        "tier": 3,
+                        "IngredientCount": 20
+                    }
+                }
+            }
+        },
+        "Life stone": {
+            "Life stone fragment": {
+                "family": "Life stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Life stone": {
+                "family": "Life stone",
+                "tier": 2,
+                "ingredients": {
+                    "Life stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Good life stone": {
+                "family": "Life stone",
+                "tier": 3,
+                "ingredients": {
+                    "Life stone": {
+                        "tier": 2,
+                        "IngredientCount": 12
+                    }
+                }
+            },
+            "Eggceptional life stone": {
+                "family": "Life stone",
+                "tier": 4,
+                "ingredients": {
+                    "Good life stone": {
+                        "tier": 3,
+                        "IngredientCount": 15
+                    }
+                }
+            }
+        },
+        "Clarity stone": {
+            "Clarity stone fragment": {
+                "family": "Clarity stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Clarity stone": {
+                "family": "Clarity stone",
+                "tier": 2,
+                "ingredients": {
+                    "Clarity stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite clarity stone": {
+                "family": "Clarity stone",
+                "tier": 3,
+                "ingredients": {
+                    "Clarity stone": {
+                        "tier": 2,
+                        "IngredientCount": 10
+                    },
+                    "Prophecy stone": {
+                        "tier": 2,
+                        "IngredientCount": 2
+                    }
+                }
+            },
+            "Eggceptional clarity stone": {
+                "family": "Clarity stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite clarity stone": {
+                        "tier": 3,
+                        "IngredientCount": 20
+                    },
+                    "Radiant prophecy stone": {
+                        "tier": 4,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Prophecy stone": {
+            "Prophecy stone fragment": {
+                "family": "Prophecy stone",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Prophecy stone": {
+                "family": "Prophecy stone",
+                "tier": 2,
+                "ingredients": {
+                    "Prophecy stone fragment": {
+                        "tier": 1,
+                        "IngredientCount": 20
+                    }
+                }
+            },
+            "Eggsquisite prophecy stone": {
+                "family": "Prophecy stone",
+                "tier": 3,
+                "ingredients": {
+                    "Prophecy stone": {
+                        "tier": 2,
+                        "IngredientCount": 10
+                    }
+                }
+            },
+            "Radiant prophecy stone": {
+                "family": "Prophecy stone",
+                "tier": 4,
+                "ingredients": {
+                    "Eggsquisite prophecy stone": {
+                        "tier": 3,
+                        "IngredientCount": 12
+                    },
+                    "Radiant soul stone": {
+                        "tier": 4,
+                        "IngredientCount": 2
+                    }
+                }
+            }
+        },
+        "Gold meteorite": {
+            "Tiny gold meteorite": {
+                "family": "Gold meteorite",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Enriched gold meteorite": {
+                "family": "Gold meteorite",
+                "tier": 2,
+                "ingredients": {
+                    "Tiny gold meteorite": {
+                        "tier": 1,
+                        "IngredientCount": 9
+                    }
+                }
+            },
+            "Solid gold meteorite": {
+                "family": "Gold meteorite",
+                "tier": 3,
+                "ingredients": {
+                    "Enriched gold meteorite": {
+                        "tier": 2,
+                        "IngredientCount": 11
+                    }
+                }
+            }
+        },
+        "Tau Ceti geode": {
+            "Tau Ceti geode piece": {
+                "family": "Tau Ceti geode",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Glimmering Tau Ceti geode": {
+                "family": "Tau Ceti geode",
+                "tier": 2,
+                "ingredients": {
+                    "Tau Ceti geode piece": {
+                        "tier": 1,
+                        "IngredientCount": 12
+                    }
+                }
+            },
+            "Radiant Tau Ceti geode": {
+                "family": "Tau Ceti geode",
+                "tier": 3,
+                "ingredients": {
+                    "Glimmering Tau Ceti geode": {
+                        "tier": 2,
+                        "IngredientCount": 14
+                    }
+                }
+            }
+        },
+        "Solar titanium": {
+            "Solar titanium ore": {
+                "family": "Solar titanium",
+                "tier": 1,
+                "ingredients": {}
+            },
+            "Solar titanium bar": {
+                "family": "Solar titanium",
+                "tier": 2,
+                "ingredients": {
+                    "Solar titanium ore": {
+                        "tier": 1,
+                        "IngredientCount": 10
+                    }
+                }
+            },
+            "Solar titanium geogon": {
+                "family": "Solar titanium",
+                "tier": 3,
+                "ingredients": {
+                    "Solar titanium bar": {
+                        "tier": 2,
+                        "IngredientCount": 12
+                    }
+                }
+            }
+        }
+    }
+}
