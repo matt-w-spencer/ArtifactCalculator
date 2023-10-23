@@ -999,11 +999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matt\\Documents\\personal\\eggs\\EggCalculator\\EggCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\matt\\Documents\\personal\\dev\\EggCalculator\\EggCalculator.csproj",
       "projectName": "EggCalculator",
-      "projectPath": "C:\\Users\\matt\\Documents\\personal\\eggs\\EggCalculator\\EggCalculator.csproj",
+      "projectPath": "C:\\Users\\matt\\Documents\\personal\\dev\\EggCalculator\\EggCalculator.csproj",
       "packagesPath": "C:\\Users\\matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matt\\Documents\\personal\\eggs\\EggCalculator\\obj\\",
+      "outputPath": "C:\\Users\\matt\\Documents\\personal\\dev\\EggCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matt\\AppData\\Roaming\\NuGet\\NuGet.Config",

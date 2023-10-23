@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leo9pzLJERNOXjuXYWQmcTtHkJQ18Hc/BgerqfjdbCQt8+QkMIAHPmIKl82KygXU/JGrWrqVCGl/VMasUqhIrA==",
+  "dgSpecHash": "p71YumuETbkR10yT+vHeBs64ScRy5Xn6svaDTDptM62MtM96mPYOHTU3qAPp9ZFQvflVRO45qoTRhnrbDUKDVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matt\\Documents\\personal\\eggs\\EggCalculator\\EggCalculator.csproj",
+  "projectFilePath": "C:\\Users\\matt\\Documents\\personal\\dev\\EggCalculator\\EggCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matt\\.nuget\\packages\\epplus\\6.2.10\\epplus.6.2.10.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
