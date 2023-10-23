@@ -17,7 +17,7 @@ namespace EggCalculator
         {
             if (args.Length < 1)
             {
-                Console.WriteLine("Please provide the artifact name.");
+                Console.WriteLine("Please provide the artifact name you wish to use.");
                 return;
             }
 
