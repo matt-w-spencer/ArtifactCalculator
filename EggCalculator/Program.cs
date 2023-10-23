@@ -11,7 +11,7 @@ namespace EggCalculator
         public static string? jsonString { get; private set; }
         public static Dictionary<string, List<int>> intermediateResults = new Dictionary<string, List<int>>();
 
-        public static string outputText = ""; // Store output text here
+        public static string outputText = "";
 
         static void Main(string[] args)
         {
@@ -37,12 +37,12 @@ namespace EggCalculator
             bool artifactFound = false;
 
             
-            foreach (var family in artifacts) // Iterate over families
+            foreach (var family in artifacts)
             {
                 intermediateResults.Clear();
-                foreach (var artifact in family.Value) // Iterate over artifacts within a family
+                foreach (var artifact in family.Value)
                 {
-                    if (artifact.Key.Equals(artifactName, StringComparison.OrdinalIgnoreCase)) // Case insensitive check
+                    if (artifact.Key.Equals(artifactName, StringComparison.OrdinalIgnoreCase))
                     {
                         artifactFound = true;
 
@@ -94,7 +94,6 @@ namespace EggCalculator
             return ingredientsRequired;
         }
 
-        // ... [rest of your code above this]
 
         private static Dictionary<string, int> ProcessIngredient(KeyValuePair<string, Ingredient> ingredient, Dictionary<string, Dictionary<string, Artifact>> artifacts)
         {
@@ -156,8 +155,6 @@ namespace EggCalculator
             return results;
         }
 
-        // ... [rest of your code below this]
-
         private static string GetFamilyName(string ingredientName, Dictionary<string, Dictionary<string, Artifact>> artifacts)
         {
             foreach (var family in artifacts)
@@ -168,7 +165,7 @@ namespace EggCalculator
                     return familyName;
                 }
             }
-            return "Unknown"; // Default if not found, though it shouldn't happen if your data is consistent.
+            return "Unknown";
         }
     }
 }
